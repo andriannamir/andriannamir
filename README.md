@@ -1,5 +1,5 @@
 <strong>Hi there 👋 I'm Andrian! </strong> <br> <br>
-🔭 I’m currently working a software engineering student at BrainStation. <br>
+🔭 I’m currently a software engineering student at BrainStation. <br>
 ⚡ Fun fact: I'm an experienced senior accountant in the process of switching careers. <br>
 📫 Connect with me on <a href="https://www.linkedin.com/in/andrian-namir-cpa/">Linkedin.</a> <br>
 <!--
